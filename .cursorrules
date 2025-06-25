@@ -1,0 +1,27 @@
+Paprika E-Ticaret Sitesi - Cursor Rules
+
+Açıklama:
+Ahşap ürünler üreten Paprika Workshop mağazası için tek sayfalık, modern UI/UX odaklı, işlevsel ama veri tabanı içermeyen bir e-ticaret sitesi.
+
+Kurallar:
+
+1. Proje Başlangıcı:
+Modern UI/UX trendlerine ve renk paletlerine göre tasarım yap. Ahşap ürünlerle uyumlu sıcak tonlar (bej, krem, koyu kahve, açık gri) ve doğal bir his veren fontlar kullan. Minimalist ama detaylı ol.
+
+2. Bileşen Oluşturma:
+Tüm butonlar, dil seçici, sepete ekleme ve iletişim alanları işlevsel olacak. Ancak herhangi bir ödeme sistemi veya backend/database kullanılmayacak. Sadece frontend üzerinden etkileşim kurulacak şekilde düşün.
+
+3. HTML/CSS/JS Üretimi:
+Sadece tek bir anasayfa oluştur. Bu sayfada ürün listesi, sepet bölümü, dil seçici (en/tr gibi), iletişim alanı (iletişim formu veya mailto linki gibi) ve kullanıcı dostu navigasyon olmalı.
+
+4. Kod Bittiğinde:
+Kodlar tamamlandığında sadece 'Dediklerini yaptım, kontrol et.' şeklinde kısa ve net cevap ver. Açıklamalara veya fazladan bilgiye gerek yok.
+
+5. Görsel Tasarım:
+Tasarımda ahşap temalı arka plan dokuları, ürün görsellerine uygun gölgeler, kutu köşelerinde hafif yuvarlaklık, hover efektleri gibi detayları kullan.
+
+6. Tasarım Stabilitesi:
+Tasarım sürecinde uyumsuzluk, responsive problemleri, font-karakter bozulması, padding-margin taşmaları gibi durumlarda bildirimde bulun. Stabilite için yorum yap ve düzeltme öner.
+
+7. Adım Adım İlerleme:
+Proje adım adım, kontrollü ve kararlı bir şekilde ilerlemelidir. Her aşama sonrasında durulup doğruluk ve tutarlılık kontrol edilmeli; bir sonraki adıma geçilmeden önce kullanıcıdan onay alınmalıdır.
